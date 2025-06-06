@@ -69,7 +69,7 @@ QT = Quantitative Trading
 | [Squarepoint](https://www.squarepoint-capital.com/careers)| NYC||||||
 | [TGS](https://www.tgsmc.com/careers/)|Irvine|||||Perception ranges anywhere from JS to RenTech tier. Extremely secretive - not much else is known.|
 | [Tower Research](https://www.tower-research.com/open-positions)| NYC||||| Super clustered into teams - traders tend to be all in one trader-researchers, while devs focus on the platform and general technology.|
-| [TransMarketGroup](https://www.transmarketgroup.com/careers)| Chicago, Puerto Rico|||||Extremely trader led. Also take interns in Puerto Rico.|
+| [TransMarketGroup](https://www.transmarketgroup.com/careers)| Chicago, Puerto Rico|||[✅](https://job-boards.greenhouse.io/transmarketgroup/jobs/4749915007?gh_jid=4749915007)||Extremely trader led. Also take interns in Puerto Rico.|
 | [TrexQuant Investments LP](https://trexquant.com/careers)| Samford |||||Founded by Ex-Millennium people. Only research and developers, entirely algorithmic and automatic.|
 | [Tudor Investment Group](https://job-boards.greenhouse.io/tudorgroup?t=0k73iy1)| NYC, Oakland, Singapore|||||Focused on macro trading and discretionary strategies. Known for its founder, Paul Tudor Jones, and its emphasis on research-driven approaches. Mix of quant and discretionary trading styles. Culture can vary by team.|
 | [Two Sigma](https://careers.twosigma.com/careers/OpenRoles/?5086=%5B16718737,16718736%5D&5086_format=3149&listFilterMode=1&jobRecordsPerPage=10&)| NYC||||| Founded by ex-DE-Shaw people. Collaborative and chill culture. The org is mostly composed of QRs and SWEs.|
